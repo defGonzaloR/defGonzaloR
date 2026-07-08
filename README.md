@@ -18,6 +18,7 @@ As a founding member and Co-President of Rutgers Dynamics, I learned all about p
 
 ## Micromouse
 While I couldn't make the competition in Long Island, my participation in Micromouse was a great experience, where I lead the electrical design of our mouse, Binarieee. 
+
 <img width="696" height="641" alt="image" src="https://github.com/user-attachments/assets/40029660-6f4a-43fa-9410-061a155c7d96" />
 
 
