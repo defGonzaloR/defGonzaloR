@@ -25,7 +25,7 @@ As a founding member and Co-President of Rutgers Dynamics, I learned all about p
 <img width="475" height="325" alt="image" src="https://github.com/user-attachments/assets/d071a33f-db09-4fc2-8f02-4c6425ef78d3" />
 
 ## Micromouse
-While I couldn't make the competition in Long Island, my participation in Micromouse was a great experience, where I lead the electrical design of our mouse, Binarieee. 
+While I couldn't make the competition in Long Island, my participation in Micromouse was a great experience, where I lead the electrical design of our mouse, Binarieee. I learned so much about effective design on a PCB through this project, and want to revisit it and learn the required programming
 
 <img width="396" height="341" alt="image" src="https://github.com/user-attachments/assets/40029660-6f4a-43fa-9410-061a155c7d96" />
 
