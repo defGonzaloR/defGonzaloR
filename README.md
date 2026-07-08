@@ -13,7 +13,7 @@ For my summer 2026 internship, I assist Reworld's Essex location and their engin
 
 <img width="421" height="446" alt="image" src="https://github.com/user-attachments/assets/07cc3409-c688-4692-a50e-9064994b5213" />
 
-<small> I get to see a lot of electrical systems in and around the plant! </small>
+<small> I get to see a lot of electrical systems in and around the plant! This one is used for training </small>
 
 # Projects
 ## Rutgers Dynamics Quadruped
