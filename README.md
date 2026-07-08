@@ -9,7 +9,11 @@ For my summer 2026 internship, I assist Reworld's Essex location and their engin
 
 <img width="901" height="683" alt="image" src="https://github.com/user-attachments/assets/d64169ed-b8be-411c-a5bc-6b714b068660" />
 
+<small>A P&ID I made recently for the pneumatic devices attached to the boilers, I helped document the design made by the lead engineer</small>.
+
 <img width="421" height="446" alt="image" src="https://github.com/user-attachments/assets/07cc3409-c688-4692-a50e-9064994b5213" />
+
+<small> I get to see a lot of electrical systems in and around the plant! </small>
 
 # Projects
 ## Rutgers Dynamics Quadruped
