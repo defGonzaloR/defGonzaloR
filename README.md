@@ -16,6 +16,11 @@ As a founding member and Co-President of Rutgers Dynamics, I learned all about p
 
 <img width="475" height="325" alt="image" src="https://github.com/user-attachments/assets/d071a33f-db09-4fc2-8f02-4c6425ef78d3" />
 
+## Micromouse
+While I couldn't make the competition in Long Island, my participation in Micromouse was a great experience, where I lead the electrical design of our mouse, Binarieee. 
+<img width="696" height="641" alt="image" src="https://github.com/user-attachments/assets/40029660-6f4a-43fa-9410-061a155c7d96" />
+
+
 ## Hexapod (Work in Progress)
 Of course, in a club setting, it's very difficult to gain experience in all facets of robotics design, so this summer I gave myself the challenge of designing my own from scratch. I'm currently in the 3D modeling phase (I have so much to learn!). It's both a humbling yet educational endeavor that I hope to show off once completed. Right now I'm on the design of the leg, and after I complete a fully modeled design, I plan to apply what I've learned about reinforcement learning
 <img width="932" height="473" alt="image" src="https://github.com/user-attachments/assets/e3105671-9586-41dc-946f-dca1f5e49e37" />
