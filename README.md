@@ -38,7 +38,8 @@ As a cute side project for Valentines day, I designed an astable 555 timer based
 
 ## Hexapod (Work in Progress)
 Of course, in a club setting, it's very difficult to gain experience in all facets of robotics design, so this summer I gave myself the challenge of designing my own from scratch. I'm currently in the 3D modeling phase (I have so much to learn!). It's both a humbling yet educational endeavor that I hope to show off once completed. Right now I'm on the design of the leg, and after I complete a fully modeled design, I plan to apply what I've learned about reinforcement learning
-<img width="732" height="273" alt="image" src="https://github.com/user-attachments/assets/e3105671-9586-41dc-946f-dca1f5e49e37" />
+<img width="559" height="392" alt="image" src="https://github.com/user-attachments/assets/e40d0299-4e0f-411a-9152-f5c129afd90d" />
+
 
 ## Flight Controller (Work in Progress)
 While this project is on hold, it was great for learning designing embedded systems, and once I get the funds I plan on having it manufactured and tested, as well as 3d modeled
