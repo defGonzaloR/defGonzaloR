@@ -9,8 +9,8 @@ If you're interested in seeing my previous hackathons, check out my devpost link
 # Engineer Intern @ Reworld Waste
 For my summer 2026 internship, I assist Reworld's Essex location and their engineering department in various projects, applying skills such as P&ID (Piping and Instrumentation Diagram) documentation and overall project management. So far during my internship, I've lead the documentation of the revision and installation of several systems in the plant, notably involving the fire protection and pneumatic device systems. I hope to explore this further in the future and work closer with the electrical aspect that is often present in many of these diagrams, such as the necessary programming for the timers within pneumatic devices.
 
+<img width="1365" height="907" alt="image" src="https://github.com/user-attachments/assets/ee817650-08b7-4a3c-b12e-77efb16fefe9" />
 
-[PortDrawing-Layout1.pdf](https://github.com/user-attachments/files/30241214/PortDrawing-Layout1.pdf)
 
 A drawing I made for the fabrication / installation of a port door of a duct within the facility
 
