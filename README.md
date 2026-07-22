@@ -13,7 +13,7 @@ For my summer 2026 internship, I assist Reworld's Essex location and their engin
 <img width="1416" height="866" alt="image" src="https://github.com/user-attachments/assets/227442b7-992a-4572-8ead-c89c9eb66190" />
 
 
-A drawing I made for the fabrication / installation of a port door of a duct within the facility
+A drawing I made for the fabrication / installation of a port door of a duct within the facility, my first design made in AutoCAD
 
 <img width="701" height="483" alt="image" src="https://github.com/user-attachments/assets/d64169ed-b8be-411c-a5bc-6b714b068660" />
 
