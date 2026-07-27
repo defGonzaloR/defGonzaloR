@@ -15,6 +15,11 @@ For my summer 2026 internship, I assist Reworld's Essex location and their engin
 
 A drawing I made for the fabrication / installation of a port door of a duct within the facility, my first design made in AutoCAD
 
+
+<img width="1415" height="896" alt="image" src="https://github.com/user-attachments/assets/39f701f6-79f7-4b1b-84d2-2ac0e8ca5a7b" />
+
+
+
 <img width="701" height="483" alt="image" src="https://github.com/user-attachments/assets/d64169ed-b8be-411c-a5bc-6b714b068660" />
 
 <small>A P&ID I made recently for the pneumatic devices attached to the boilers, I helped document the design made by the lead engineer</small>.
