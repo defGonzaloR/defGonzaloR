@@ -3,7 +3,7 @@ I am currently a junior Electrical Engineering student at Rutgers University
 
 Exploring robotics, power distribution and electrical system design, machine and reinforcement learning, and previously interned at Reworld Waste, a Thermal Test Facility (TTF) transforming waste into energy.
 
-A bit about me is I love to learn everything about engineering, not just Electrical Engineering as a discipline. I'm currently throwing myself into embedded systems design through my flight control system project, while also learning about Multi-modal learning models through a course at Rutgers, so I definitely love exposing myself to everything possible.
+A bit about me is I love to learn everything about engineering, not just Electrical Engineering as a discipline. I'm currently throwing myself into embedded systems design through my flight control system project, while also learning about Multi-modal learning models through a course at Rutgers, so I definitely love exposing myself to everything possible. And yes I love comics and video games, Spider-Man is definitely my favorite superhero right now.
 
 
 contact me at: gonzalomramos356@gmail.com
