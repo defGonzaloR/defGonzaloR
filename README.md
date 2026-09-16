@@ -28,9 +28,9 @@ contact me at: gonzalomramos356@gmail.com
    
 4. ***Hackathons***
    
-   3.1 **MakeCU 2025** 
+   3.1 **MakeCU 2025** (Roach Busters)
    
-   3.2 **StarkHacks 2026** (
+   3.2 **StarkHacks 2026** (Assisted Eating Device)
    
 
 # 1. Work Experience
