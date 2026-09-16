@@ -68,7 +68,7 @@ This was my first time designing a PCB, which is definitely noticeable. I think 
 ## Valentines PCB
 
 As a cute side project for Valentines day, I designed an astable 555 timer based circuit that lit up red LEDs. I definitely learned a lot through my mistakes from this project, such as picking the appropriate battery holder and designing with surface mounted LEDs.
-
+If you're familiar with cheap electronic design, you'll notice the 555 timer in the heart of the board. I picked this idea up from a lab of mine at school, and I thought it was really cool. If I redesign this, I want to switch to THT LED's as I didnt have a heat gun to properly solder the smd components on.
 <img width="505" height="385" alt="image" src="https://github.com/user-attachments/assets/caa6db93-92dd-4bbb-a205-9744d3cc5a2f" />
 
 
