@@ -8,29 +8,29 @@ A bit about me is I love to learn everything about engineering, not just Electri
 
 contact me at: gonzalomramos356@gmail.com
 
-# Table of contents
+# Table of contents + section overviews
 
 1. Work Experience
    
-   1.1 Reworld Waste
+   1.1 Reworld Waste (AutoCAD, Jupyter Notebooks)
 
 2. Projects
    
-   2.1 Rutgers Dynamics Quadruped
+   2.1 Rutgers Dynamics Quadruped (Kicad/Altium, power distribution, testing and validation)
 
-   2.2 STM32 Flight Controller
+   2.2 STM32 Flight Controller (Kicad, STM32, actuator/PWM control, UART & I2C)
 
-   2.3 Hexapod
+   2.3 Hexapod (Kicad, Raspberry Pi, actuator control)
 
-   2.4 Micromous
+   2.4 Micromouse (Easyeda, Peripherals(IMU and ToF), Teensy integration)
    
-   2.5 Valentines PCB
+   2.5 Valentines PCB (Kicad, 555 timer)
    
 3. Hackathons
    
-   3.1 MakeCU 2025 (Roach Busters)
+   3.1 MakeCU 2025 (Roach Busters) (Arduino, Raspberry Pi, Gemini)
    
-   3.2 StarkHacks 2026 (Assisted Eating Device)
+   3.2 StarkHacks 2026 (Assisted Eating Device) (VLA Models, Robotics, ESP32)
    
 
 # 1. Work Experience
