@@ -12,7 +12,7 @@ contact me at: gonzalomramos356@gmail.com
 
 1. Work Experience
    
-   1.1 Reworld Waste (AutoCAD, Jupyter Notebooks)
+   1.1 **Reworld Waste** (AutoCAD, Jupyter Notebooks)
 
 2. Projects
    
