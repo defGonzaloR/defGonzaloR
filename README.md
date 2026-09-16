@@ -7,8 +7,9 @@ If you're interested in seeing my previous hackathons, check out my devpost link
 
 # Work Experience
 # Engineer Intern @ Reworld Waste
-For my summer 2026 internship, I assist Reworld's Essex location and their engineering department in various projects, applying skills such as P&ID (Piping and Instrumentation Diagram) documentation and overall project management. So far during my internship, I've lead the documentation of the revision and installation of several systems in the plant, notably involving the fire protection and pneumatic device systems. I hope to explore this further in the future and work closer with the electrical aspect that is often present in many of these diagrams, such as the necessary programming for the timers within pneumatic devices.
-
+For my summer 2026 internship, I assisted Reworld's Essex location and their engineering department in various projects, applying skills such as AutoCAD design, P&ID (Piping and Instrumentation Diagram) documentation, and overall project management. 
+It was a great introduction to the utilities industry, and I learned so much about it and Reworld as a company. I gained lots of industry connections, and it was a great first internship as I had free reign to work on whatever I wanted to.
+I primarily worked on the AutoCAD design of access ports and P&ID documenation. For my access port projects, it consisted of me walking down third-party contractors of desired locations of the access ports, measuring out the area, and then designing based of several designs already in the plant, so I became super familiar with numerous systems there!
 
 <img width="1416" height="866" alt="image" src="https://github.com/user-attachments/assets/227442b7-992a-4572-8ead-c89c9eb66190" />
 
@@ -37,7 +38,7 @@ As a founding member and Co-President of Rutgers Dynamics, I learned all about p
 
 ## Flight Controller 
 
-Through this project I hope to learn firmware development, I'm really excited for the chance to get to fabricate and manufacture it.
+The easy part of this project will be the electrical design, which is already 98% done, aside from final design/electric rule checks. My goal for this project is to build a full fledged flight control system, including the shown PCB, a Simulink simuation of the system, and finally full development of required firmware -- something I'm super excited to get into. The hardest part of this project is funding it, as the GPS components can definitely get a little pricier. This is my most recent electrical design and I definitely think its my best, but I hope to come back to it repeatedly to apply whatever tracing/layout theory I learn.
 
 
 <img width="772" height="529" alt="image" src="https://github.com/user-attachments/assets/04733dd8-e6a0-4f70-ba65-0233418dc9d6" />
@@ -46,6 +47,7 @@ Through this project I hope to learn firmware development, I'm really excited fo
 ## Hexapod 
 Of course, in a club setting, it's very difficult to gain experience in all facets of robotics design, so this summer I gave myself the challenge of designing my own from scratch. I'm currently in the 3D modeling phase (I have so much to learn!). It's both a humbling yet educational endeavor that I hope to show off once completed. Right now I'm on the design of the leg, and after I complete a fully modeled design, I plan to apply what I've learned about reinforcement learning
 
+My next step is to complete fabricaton and test this board, but I also want to create a V2 to implement even better signal integrity design choices, such as isolating from the Raspberry Pi logic, something I didn't do to initially save money on components.
 
 <img width="1016" height="677" alt="image" src="https://github.com/user-attachments/assets/5daa2dff-4116-4005-9e25-04dabcb74239" />
 
@@ -57,7 +59,7 @@ Of course, in a club setting, it's very difficult to gain experience in all face
 
 
 ## Micromouse
-While I couldn't make the competition in Long Island, my participation in Micromouse was a great experience, where I lead the electrical design of our mouse, Binarieee. I learned so much about effective design on a PCB through this project, and want to revisit it and learn the required programming
+This was my first time designing a PCB, which is definitely noticeable. I think after this project I definitely gained more confidence in the process, for example, I'd probably never implement header pins for a microcontroller, instead I'd just design around the original chip for a better form factor. This PCB had so many mistakes in it but it taught me to be intentional with all of my design choices.
 
 <img width="396" height="341" alt="image" src="https://github.com/user-attachments/assets/40029660-6f4a-43fa-9410-061a155c7d96" />
 
