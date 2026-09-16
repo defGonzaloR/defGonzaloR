@@ -33,6 +33,8 @@ A drawing I made for the fabrication / installation of a port door of a duct wit
 During my academic career at Rutgers University, I've grown increasingly interested in pursuing robotics projects, and this summer hope to increase my fluency in robotic systems.
 As a founding member and Co-President of Rutgers Dynamics, I learned all about power distribution systems and gained my first experience with robotics. It was here I collaborated with several subdivisions and learned about reinforcement learning, 3d modeling, and kinematics on top of what I learned through upperclassmen involved in the electrical division. This upcoming year I strive to lead the organization to an open-source, inexpensive approach to robotics to help those who were in the same shoes I was in.
 
+My contribution to this project was designing v2 of the board, shown in my repo for it, that was heavily inspired by our v1. It was my first time designing power distribution, and I got to learn a lot about signal integrity, filtering, and copper pours. We did all of our testing on v1, results that I used to make changes on v2, which will soon be updated to a third version by our new Electrical lead and his team
+
 <img width="475" height="325" alt="image" src="https://github.com/user-attachments/assets/d071a33f-db09-4fc2-8f02-4c6425ef78d3" />
 
 
