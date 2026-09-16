@@ -34,7 +34,16 @@ As a founding member and Co-President of Rutgers Dynamics, I learned all about p
 
 <img width="475" height="325" alt="image" src="https://github.com/user-attachments/assets/d071a33f-db09-4fc2-8f02-4c6425ef78d3" />
 
-## Hexapod (Work in Progress)
+
+## Flight Controller 
+
+Through this project I hope to learn firmware development, I'm really excited for the chance to get to fabricate and manufacture it.
+
+
+<img width="772" height="529" alt="image" src="https://github.com/user-attachments/assets/04733dd8-e6a0-4f70-ba65-0233418dc9d6" />
+
+
+## Hexapod 
 Of course, in a club setting, it's very difficult to gain experience in all facets of robotics design, so this summer I gave myself the challenge of designing my own from scratch. I'm currently in the 3D modeling phase (I have so much to learn!). It's both a humbling yet educational endeavor that I hope to show off once completed. Right now I'm on the design of the leg, and after I complete a fully modeled design, I plan to apply what I've learned about reinforcement learning
 
 
@@ -59,7 +68,6 @@ As a cute side project for Valentines day, I designed an astable 555 timer based
 <img width="505" height="385" alt="image" src="https://github.com/user-attachments/assets/caa6db93-92dd-4bbb-a205-9744d3cc5a2f" />
 
 
-## Flight Controller (Work in Progress)
-While this project is on hold, it was great for learning designing embedded systems, and once I get the funds I plan on having it manufactured and tested, as well as 3d modeled
-<img width="869" height="506" alt="image" src="https://github.com/user-attachments/assets/690d321d-cb6a-424a-b43e-10c1fc291585" />
+
+
 
