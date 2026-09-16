@@ -1,9 +1,12 @@
 # Welcome to my portfolio!
 I am currently a junior Electrical Engineering student at Rutgers University
 
-Exploring robotics, power distribution and electrical system design, machine and reinforcement learning, and currently interning at Reworld Waste, a Thermal Test Facility (TTF) transforming waste into energy.
+Exploring robotics, power distribution and electrical system design, machine and reinforcement learning, and previously interned at Reworld Waste, a Thermal Test Facility (TTF) transforming waste into energy.
 
-If you're interested in seeing my previous hackathons, check out my devpost linked in my profile!
+A bit about me is I love to learn everything about engineering, not just Electrical Engineering as a discipline. I'm currently throwing myself into embedded systems design through my flight control system project, while also learning about Multi-modal learning models through a course at Rutgers, so I definitely love exposing myself to everything possible.
+
+
+contact me at: gonzalomramos356@gmail.com
 
 # Table of contents
 
