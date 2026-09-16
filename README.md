@@ -49,8 +49,8 @@ Of course, in a club setting, it's very difficult to gain experience in all face
 
 My next step is to complete fabricaton and test this board, but I also want to create a V2 to implement even better signal integrity design choices, such as isolating from the Raspberry Pi logic, something I didn't do to initially save money on components.
 
-<img width="1016" height="677" alt="image" src="https://github.com/user-attachments/assets/5daa2dff-4116-4005-9e25-04dabcb74239" />
 
+<img width="1010" height="523" alt="image" src="https://github.com/user-attachments/assets/3b97dda3-5ae8-49ef-803d-5665c55e5383" />
 
 <img width="846" height="466" alt="MMVRH_PDB1" src="https://github.com/user-attachments/assets/fb981d26-4eeb-4939-8e3f-c1ccf090b428" />
 
