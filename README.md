@@ -6,17 +6,29 @@ Exploring robotics, power distribution and electrical system design, machine and
 If you're interested in seeing my previous hackathons, check out my devpost linked in my profile!
 
 # Table of contents
+
 1. Work Experience
+   
    1.1 Reworld Waste
+
 2. Projects
+   
    2.1 Rutgers Dynamics Quadruped
+
    2.2 STM32 Flight Controller
+
    2.3 Hexapod
-   2.4 Micromouse
+
+   2.4 Micromous
+   
    2.5 Valentines PCB
+   
 3. Hackathons
+   
    3.1 MakeCU 2025 (Roach Busters)
+   
    3.2 StarkHacks 2026 (Assisted Eating Device)
+   
 
 # 1. Work Experience
 # 1.1 Engineer Intern @ Reworld Waste
