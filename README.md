@@ -16,21 +16,21 @@ contact me at: gonzalomramos356@gmail.com
 
 2. Projects
    
-   2.1 Rutgers Dynamics Quadruped (Kicad/Altium, power distribution, testing and validation)
+   2.1 **Rutgers Dynamics Quadruped** (Kicad/Altium, power distribution, testing and validation)
 
-   2.2 STM32 Flight Controller (Kicad, STM32, actuator/PWM control, UART & I2C)
+   2.2 **STM32 Flight Controller** (Kicad, STM32, actuator/PWM control, UART & I2C)
 
-   2.3 Hexapod (Kicad, Raspberry Pi, actuator control)
+   2.3 **Hexapod** (Kicad,power distribution, Raspberry Pi, actuator control)
 
-   2.4 Micromouse (Easyeda, Peripherals(IMU and ToF), Teensy integration)
+   2.4 **Micromouse** (Easyeda, Peripherals(IMU and ToF), Teensy integration)
    
-   2.5 Valentines PCB (Kicad, 555 timer)
+   2.5 **Valentines PCB** (Kicad, 555 timer)
    
 3. Hackathons
    
-   3.1 MakeCU 2025 (Roach Busters) (Arduino, Raspberry Pi, Gemini)
+   3.1 **MakeCU 2025** (Roach Busters) (Arduino, Raspberry Pi, Gemini)
    
-   3.2 StarkHacks 2026 (Assisted Eating Device) (VLA Models, Robotics, ESP32)
+   3.2 **StarkHacks 2026** (Assisted Eating Device) (VLA Models, Robotics, ESP32)
    
 
 # 1. Work Experience
