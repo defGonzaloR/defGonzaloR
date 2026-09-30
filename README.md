@@ -71,7 +71,7 @@ My contribution to this project was designing v2 of the board, shown in my repo 
 The easy part of this project will be the electrical design, which is already 98% done, aside from final design/electric rule checks. My goal for this project is to build a full fledged flight control system, including the shown PCB, a Simulink simuation of the system, and finally full development of required firmware -- something I'm super excited to get into. The hardest part of this project is funding it, as the GPS components can definitely get a little pricier. This is my most recent electrical design and I definitely think its my best, but I hope to come back to it repeatedly to apply whatever tracing/layout theory I learn.
 
 
-<img width="772" height="529" alt="image" src="https://github.com/user-attachments/assets/04733dd8-e6a0-4f70-ba65-0233418dc9d6" />
+<img width="695" height="346" alt="image" src="https://github.com/user-attachments/assets/6c5de582-9ae1-44fe-a0d0-cd2c557f9823" />
 
 
 ## 2.3 Hexapod 
@@ -81,11 +81,6 @@ My next step is to complete fabricaton and test this board, but I also want to c
 
 
 <img width="1010" height="523" alt="image" src="https://github.com/user-attachments/assets/3b97dda3-5ae8-49ef-803d-5665c55e5383" />
-
-<img width="846" height="466" alt="MMVRH_PDB1" src="https://github.com/user-attachments/assets/fb981d26-4eeb-4939-8e3f-c1ccf090b428" />
-
-<img width="1156" height="607" alt="MMVRH_PDB" src="https://github.com/user-attachments/assets/5b9e3dcc-18f8-4bc9-962a-6b3b3839c6ae" />
-
 
 
 ## 2.4 Micromouse
