@@ -20,11 +20,13 @@ contact me at: gonzalomramos356@gmail.com
    
    2.2 **STM32 Flight Controller** 
 
-   2.3 **Hexapod** 
-
-   2.4 **Micromouse** 
+   2.3 **Hexapod**
    
-   2.5 **Valentines PCB** 
+   2.4 **Traffic Light State Machine**
+
+   2.5 **Micromouse** 
+   
+   2.6 **Valentines PCB** 
    
 4. ***Hackathons***
    
@@ -82,13 +84,26 @@ My next step is to complete fabricaton and test this board, but I also want to c
 
 <img width="1010" height="523" alt="image" src="https://github.com/user-attachments/assets/3b97dda3-5ae8-49ef-803d-5665c55e5383" />
 
+## 2.4 Traffic Light State Machine
 
-## 2.4 Micromouse
+To further improve my Digital Logic foundation, my friend Baslan and I designed a traffic light state machine that takes user input, that way, pedestrians can interact with the traffic light and be able to cross when needed to. This was a great application of everything I learned within my DLD class, as I further studied the use of k-maps, state machines, and other foundations in digital logic. The heart of this project is the use of a 555 timer, a very simple and common IC in designs like this. We were also given the chance to test this design out on an actual traffic light from the EE lab, to much success.
+
+<img width="339" height="261" alt="image" src="https://github.com/user-attachments/assets/56252d7b-ce6f-4da3-a3ba-26855dae78d8" />
+
+
+<img width="573" height="281" alt="image" src="https://github.com/user-attachments/assets/525dc306-59c3-412a-a7ef-0386ded97b6f" />
+
+
+<img width="530" height="356" alt="image" src="https://github.com/user-attachments/assets/97f11e69-5982-4102-b729-6fa92a29f82d" />
+
+
+
+## 2.5 Micromouse
 This was my first time designing a PCB, which is definitely noticeable. I think after this project I definitely gained more confidence in the process, for example, I'd probably never implement header pins for a microcontroller, instead I'd just design around the original chip for a better form factor. This PCB had so many mistakes in it but it taught me to be intentional with all of my design choices.
 
 <img width="396" height="341" alt="image" src="https://github.com/user-attachments/assets/40029660-6f4a-43fa-9410-061a155c7d96" />
 
-## 2.5 Valentines PCB
+## 2.6 Valentines PCB
 
 As a cute side project for Valentines day, I designed an astable 555 timer based circuit that lit up red LEDs. I definitely learned a lot through my mistakes from this project, such as picking the appropriate battery holder and designing with surface mounted LEDs.
 If you're familiar with cheap electronic design, you'll notice the 555 timer in the heart of the board. I picked this idea up from a lab of mine at school, and I thought it was really cool. If I redesign this, I want to switch to THT LED's as I didnt have a heat gun to properly solder the smd components on.
